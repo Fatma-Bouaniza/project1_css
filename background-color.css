@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet; /*blue*/
+    margin-left: 30px;
+    text-align: center;
+    background-color: red;
+}
+p{
+    color: black;
+    margin-left: 20px;
+    text-align:left; /*text-align*/
+    background-color:maroon ;/*background-color*/
+}
+body{
+    background-color: aquamarine; /*background-color*/
+
+}
