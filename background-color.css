@@ -4,6 +4,10 @@ h1{
     text-align: center;
     background-color: rgb(200, 221, 203);
     border-radius: 12px;
+    outline-style: solid;
+    outline-color: rgb(17, 2, 102);
+    outline-width:thin;
+    text-decoration:underline;
     
     
 }
@@ -22,7 +26,10 @@ p{
     margin: 25px;
     height: 10px;
     width: 100%;
-    
+    outline-offset: 15px;
+    /*CSS Text*/
+    text-transform:capitalize;
+    text-indent: 50px;
 }
 body{
     /*background-color*/
