@@ -8,6 +8,9 @@ h1{
     outline-color: rgb(17, 2, 102);
     outline-width:thin;
     text-decoration:underline;
+    text-shadow: 2px 2px red;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
     
     
 }
@@ -28,9 +31,14 @@ p{
     width: 100%;
     outline-offset: 15px;
     /*CSS Text*/
-    text-transform:capitalize;
-    text-indent: 50px;
+    text-transform: uppercase;
+    text-indent: 100px;
+   
+ 
 }
+a {
+    color: hotpink;
+  }
 body{
     /*background-color*/
     background: url("3.jpg");
