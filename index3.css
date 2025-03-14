@@ -1,0 +1,29 @@
+h1{
+    font-family: algerian;
+    font-size: 50px;
+    color: red;
+    background-color: rgb(141, 141, 34);
+    padding: 5px;
+
+}
+h2{
+    font-family: consolas;
+    font-size: 20px;
+    color: green;
+    
+}
+h3{
+    font-family: cambria;
+    font-size: 20px;
+    color: yellowgreen;
+    
+}
+h6{
+    
+    color:blueviolet;
+    
+}
+body{
+    background-image: url(image6.png);
+    background-repeat: no-repeat;
+}
