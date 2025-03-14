@@ -4,7 +4,10 @@ h1{
     size: +5;
 }
 h2{
-    color: aqua;
+    color: rgb(6, 126, 126);
     font-style: italic;
     size: +6;
+}
+body{
+    background-color: rgb(245, 241, 236);
 }
