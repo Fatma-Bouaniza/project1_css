@@ -1,0 +1,11 @@
+table, th, td {
+   border: 1px solid;
+   text-align: left;
+   background-color: beige;
+}
+h1{
+    font-family: algerian;
+    color: blueviolet;
+    size: 30px;
+    
+}
